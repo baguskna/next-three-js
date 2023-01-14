@@ -61,7 +61,7 @@ function Images() {
         position={[2, 0, 1]}
         scale={3}
         url="/img6.jpeg"
-        rotation={[0, -0.9, 0]}
+        rotation={[0, 0.9, 0]}
       />
       <ImageHehe
         position={[-2.3, -height, 2]}
